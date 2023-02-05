@@ -1,0 +1,15 @@
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.csproj.AssemblyReference.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.AssemblyInfo.cs
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\bin\Debug\net6.0\aula26.exe
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\bin\Debug\net6.0\aula26.deps.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\bin\Debug\net6.0\aula26.runtimeconfig.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\bin\Debug\net6.0\aula26.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\bin\Debug\net6.0\ref\aula26.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\bin\Debug\net6.0\aula26.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\ref\aula26.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula26\obj\Debug\net6.0\aula26.genruntimeconfig.cache

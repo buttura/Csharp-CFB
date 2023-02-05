@@ -1,0 +1,15 @@
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\bin\Debug\net6.0\aula28.exe
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\bin\Debug\net6.0\aula28.deps.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\bin\Debug\net6.0\aula28.runtimeconfig.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\bin\Debug\net6.0\aula28.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\bin\Debug\net6.0\ref\aula28.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\bin\Debug\net6.0\aula28.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.csproj.AssemblyReference.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.AssemblyInfo.cs
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\ref\aula28.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula28\obj\Debug\net6.0\aula28.genruntimeconfig.cache

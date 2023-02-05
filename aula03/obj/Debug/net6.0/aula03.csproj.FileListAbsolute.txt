@@ -1,0 +1,15 @@
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\bin\Debug\net6.0\aula03.exe
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\bin\Debug\net6.0\aula03.deps.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\bin\Debug\net6.0\aula03.runtimeconfig.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\bin\Debug\net6.0\aula03.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\bin\Debug\net6.0\ref\aula03.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\bin\Debug\net6.0\aula03.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.csproj.AssemblyReference.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.AssemblyInfo.cs
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\ref\aula03.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula03\obj\Debug\net6.0\aula03.genruntimeconfig.cache

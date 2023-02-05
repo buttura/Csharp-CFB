@@ -1,0 +1,15 @@
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\bin\Debug\net6.0\aula35.exe
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\bin\Debug\net6.0\aula35.deps.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\bin\Debug\net6.0\aula35.runtimeconfig.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\bin\Debug\net6.0\aula35.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\bin\Debug\net6.0\ref\aula35.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\bin\Debug\net6.0\aula35.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.csproj.AssemblyReference.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.AssemblyInfo.cs
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\ref\aula35.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula35\obj\Debug\net6.0\aula35.genruntimeconfig.cache

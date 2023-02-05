@@ -1,0 +1,15 @@
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.csproj.AssemblyReference.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.AssemblyInfo.cs
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\bin\Debug\net6.0\aual38.exe
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\bin\Debug\net6.0\aual38.deps.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\bin\Debug\net6.0\aual38.runtimeconfig.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\bin\Debug\net6.0\aual38.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\bin\Debug\net6.0\ref\aual38.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\bin\Debug\net6.0\aual38.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\ref\aual38.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula38\obj\Debug\net6.0\aual38.genruntimeconfig.cache

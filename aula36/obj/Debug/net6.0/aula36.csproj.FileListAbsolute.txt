@@ -1,0 +1,15 @@
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\bin\Debug\net6.0\aula36.exe
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\bin\Debug\net6.0\aula36.deps.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\bin\Debug\net6.0\aula36.runtimeconfig.json
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\bin\Debug\net6.0\aula36.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\bin\Debug\net6.0\ref\aula36.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\bin\Debug\net6.0\aula36.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.csproj.AssemblyReference.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.AssemblyInfo.cs
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\ref\aula36.dll
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.pdb
+C:\Users\higor\Desktop\-\Estudos\C#\aulas\aula36\obj\Debug\net6.0\aula36.genruntimeconfig.cache
